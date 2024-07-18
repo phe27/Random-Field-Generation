@@ -5,9 +5,9 @@ There is an example: `example.dat` contains all the input parameters. `getinp.m`
 
 `rfgen.m` is the MAIN file.
 
-% Author:       Dr Pengpeng He
-% Organisation: University of Dundee
-% Email:        phe001@dundee.ac.uk
-% Website:
+Author:       Dr Pengpeng He
+Organisation: University of Dundee
+Email:        phe001@dundee.ac.uk
+Website:
 %   <a href="matlab:
 %   web('http://discovery.dundee.ac.uk/en/persons/pengpeng-he')">Author's Site</a>

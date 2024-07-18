@@ -5,6 +5,8 @@ There is an example: `example.dat` contains all the input parameters. `getinp.m`
 
 `rfgen.m` is the MAIN file.
 
+In this example, 100 realizations are applied: `example_random field 1.fig` shows the generated random field 1 (the 1st realisation). `example_random field 2.fig` shows the generated random field 2 (the 1st realisation). The two random fields have a cross-correlation coefficient of 0.5 (see `example.dat`). `example_correlation structure_random field 1.fig` is the averaged auto correlation structure of all the 100 generated random field 1, compared to the prescribed theoretical structure. `example_correlation structure_random field 1.fig` is for random field 2.
+
 
 Author:        Dr Pengpeng He    
 Organisation:  University of Dundee    

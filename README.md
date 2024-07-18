@@ -9,5 +9,4 @@ Author:       Dr Pengpeng He
 Organisation: University of Dundee
 Email:        phe001@dundee.ac.uk
 Website:
-%   <a href="matlab:
-%   web('http://discovery.dundee.ac.uk/en/persons/pengpeng-he')">Author's Site</a>
+<a href="'http://discovery.dundee.ac.uk/en/persons/pengpeng-he'">Author's Site</a>

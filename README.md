@@ -8,5 +8,4 @@ There is an example: `example.dat` contains all the input parameters. `getinp.m`
 Author:       Dr Pengpeng He
 Organisation: University of Dundee
 Email:        phe001@dundee.ac.uk
-Website:
-<a href="'http://discovery.dundee.ac.uk/en/persons/pengpeng-he'">Author's Site</a>
+Website:      http://discovery.dundee.ac.uk/en/persons/pengpeng-he

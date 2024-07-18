@@ -1,0 +1,10 @@
+1.  mean and standard deviation of random field #1  . . . 10.0 1.0 2 0 0 0 0
+2.  mean and standard deviation of random field #2  . . . 20.0 2.0 2 0 0 0 0
+3.  correlation lengths of random fields  . . . . . . . . 0.5 0.5
+4.  cross-correlation between the two fields  . . . . . . 0.5
+5.  element sizes in x- and y-direction . . . . . . . . . 0.01953125 0.01953125
+6.  number of elements in x- and y-direction  . . . . . . 256 256
+7.  initial seed number . . . . . . . . . . . . . . . . . 37
+8.  total number of realizations  . . . . . . . . . . . . 100
+9.  plot a random field?  . . . . . . . . . . . . . . . . 1 1 1
+10. debug on? . . . . . . . . . . . . . . . . . . . . . . 1

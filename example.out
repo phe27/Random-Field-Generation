@@ -1,0 +1,536 @@
+19-Jul-2024  00:35:54  +0100
+This is RFGEN (Version 2.0): 19-Jul-2024  00:35:54  +0100
+------------------------------------------------------------------
+
+Input Parameter:
+------------------------------------------------------------------
+Distribution of random field 1 . . . . . . . . Lognormal
+Mean and SD of random field 1  . . . . . . . . 1.000e+01 1.000e+00
+Distribution of random field 2 . . . . . . . . Lognormal
+Mean and SD of random field 2  . . . . . . . . 2.000e+01 2.000e+00
+Correlation lengths in x- and y-dir  . . . . . 5.000e-01 5.000e-01
+Cross-correlation between the two RFs  . . . . 5.000e-01
+Element sizes in x- and y-dir  . . . . . . . . 1.953e-02 1.953e-02
+Number of elements in x- and y-dir . . . . . . 256 256
+Initial seed number  . . . . . . . . . . . . . 37
+Total number of realizations   . . . . . . . . 100
+
+
+Realizations:
+------------------------------------------------------------------
+Realization 1: 
+    Corr coef between RFs is: 0.55
+    Check random field #1: RF MEAN =    9.984, SD =    0.978
+    Check random field #2: RF MEAN =   19.929, SD =    2.062
+
+Realization 2: 
+    Corr coef between RFs is: 0.43
+    Check random field #1: RF MEAN =   10.055, SD =    0.999
+    Check random field #2: RF MEAN =   19.890, SD =    2.009
+
+Realization 3: 
+    Corr coef between RFs is: 0.52
+    Check random field #1: RF MEAN =   10.077, SD =    0.883
+    Check random field #2: RF MEAN =   20.016, SD =    1.937
+
+Realization 4: 
+    Corr coef between RFs is: 0.53
+    Check random field #1: RF MEAN =    9.962, SD =    0.971
+    Check random field #2: RF MEAN =   20.169, SD =    2.048
+
+Realization 5: 
+    Corr coef between RFs is: 0.47
+    Check random field #1: RF MEAN =    9.871, SD =    0.921
+    Check random field #2: RF MEAN =   19.678, SD =    1.948
+
+Realization 6: 
+    Corr coef between RFs is: 0.64
+    Check random field #1: RF MEAN =    9.972, SD =    1.083
+    Check random field #2: RF MEAN =   19.896, SD =    2.006
+
+Realization 7: 
+    Corr coef between RFs is: 0.50
+    Check random field #1: RF MEAN =   10.046, SD =    1.014
+    Check random field #2: RF MEAN =   20.268, SD =    1.949
+
+Realization 8: 
+    Corr coef between RFs is: 0.49
+    Check random field #1: RF MEAN =    9.957, SD =    0.884
+    Check random field #2: RF MEAN =   20.277, SD =    1.726
+
+Realization 9: 
+    Corr coef between RFs is: 0.49
+    Check random field #1: RF MEAN =   10.048, SD =    1.029
+    Check random field #2: RF MEAN =   19.868, SD =    1.932
+
+Realization 10: 
+    Corr coef between RFs is: 0.46
+    Check random field #1: RF MEAN =    9.744, SD =    0.879
+    Check random field #2: RF MEAN =   19.885, SD =    1.926
+
+Realization 11: 
+    Corr coef between RFs is: 0.53
+    Check random field #1: RF MEAN =   10.123, SD =    0.960
+    Check random field #2: RF MEAN =   20.403, SD =    2.057
+
+Realization 12: 
+    Corr coef between RFs is: 0.48
+    Check random field #1: RF MEAN =   10.024, SD =    0.944
+    Check random field #2: RF MEAN =   19.909, SD =    2.014
+
+Realization 13: 
+    Corr coef between RFs is: 0.54
+    Check random field #1: RF MEAN =   10.086, SD =    0.950
+    Check random field #2: RF MEAN =   20.034, SD =    2.050
+
+Realization 14: 
+    Corr coef between RFs is: 0.45
+    Check random field #1: RF MEAN =    9.971, SD =    0.988
+    Check random field #2: RF MEAN =   19.843, SD =    1.928
+
+Realization 15: 
+    Corr coef between RFs is: 0.54
+    Check random field #1: RF MEAN =    9.987, SD =    1.023
+    Check random field #2: RF MEAN =   19.922, SD =    1.826
+
+Realization 16: 
+    Corr coef between RFs is: 0.49
+    Check random field #1: RF MEAN =   10.048, SD =    0.936
+    Check random field #2: RF MEAN =   20.031, SD =    1.875
+
+Realization 17: 
+    Corr coef between RFs is: 0.46
+    Check random field #1: RF MEAN =   10.171, SD =    0.910
+    Check random field #2: RF MEAN =   20.406, SD =    1.913
+
+Realization 18: 
+    Corr coef between RFs is: 0.47
+    Check random field #1: RF MEAN =    9.965, SD =    0.955
+    Check random field #2: RF MEAN =   20.045, SD =    1.872
+
+Realization 19: 
+    Corr coef between RFs is: 0.49
+    Check random field #1: RF MEAN =    9.956, SD =    0.977
+    Check random field #2: RF MEAN =   19.796, SD =    1.921
+
+Realization 20: 
+    Corr coef between RFs is: 0.47
+    Check random field #1: RF MEAN =    9.980, SD =    1.013
+    Check random field #2: RF MEAN =   20.205, SD =    1.959
+
+Realization 21: 
+    Corr coef between RFs is: 0.52
+    Check random field #1: RF MEAN =    9.975, SD =    0.991
+    Check random field #2: RF MEAN =   20.268, SD =    1.931
+
+Realization 22: 
+    Corr coef between RFs is: 0.51
+    Check random field #1: RF MEAN =    9.813, SD =    0.991
+    Check random field #2: RF MEAN =   19.986, SD =    1.915
+
+Realization 23: 
+    Corr coef between RFs is: 0.45
+    Check random field #1: RF MEAN =   10.087, SD =    0.967
+    Check random field #2: RF MEAN =   20.062, SD =    1.949
+
+Realization 24: 
+    Corr coef between RFs is: 0.47
+    Check random field #1: RF MEAN =    9.961, SD =    1.024
+    Check random field #2: RF MEAN =   20.009, SD =    2.013
+
+Realization 25: 
+    Corr coef between RFs is: 0.45
+    Check random field #1: RF MEAN =    9.905, SD =    1.022
+    Check random field #2: RF MEAN =   19.974, SD =    1.893
+
+Realization 26: 
+    Corr coef between RFs is: 0.41
+    Check random field #1: RF MEAN =   10.113, SD =    0.915
+    Check random field #2: RF MEAN =   20.250, SD =    1.755
+
+Realization 27: 
+    Corr coef between RFs is: 0.51
+    Check random field #1: RF MEAN =   10.038, SD =    1.037
+    Check random field #2: RF MEAN =   20.246, SD =    2.071
+
+Realization 28: 
+    Corr coef between RFs is: 0.51
+    Check random field #1: RF MEAN =    9.710, SD =    0.950
+    Check random field #2: RF MEAN =   19.592, SD =    2.036
+
+Realization 29: 
+    Corr coef between RFs is: 0.49
+    Check random field #1: RF MEAN =    9.764, SD =    0.959
+    Check random field #2: RF MEAN =   19.622, SD =    1.947
+
+Realization 30: 
+    Corr coef between RFs is: 0.50
+    Check random field #1: RF MEAN =    9.963, SD =    0.952
+    Check random field #2: RF MEAN =   20.001, SD =    1.949
+
+Realization 31: 
+    Corr coef between RFs is: 0.47
+    Check random field #1: RF MEAN =    9.838, SD =    0.946
+    Check random field #2: RF MEAN =   19.965, SD =    1.885
+
+Realization 32: 
+    Corr coef between RFs is: 0.48
+    Check random field #1: RF MEAN =    9.974, SD =    1.029
+    Check random field #2: RF MEAN =   19.712, SD =    1.897
+
+Realization 33: 
+    Corr coef between RFs is: 0.56
+    Check random field #1: RF MEAN =    9.855, SD =    0.901
+    Check random field #2: RF MEAN =   19.669, SD =    2.017
+
+Realization 34: 
+    Corr coef between RFs is: 0.45
+    Check random field #1: RF MEAN =    9.987, SD =    0.968
+    Check random field #2: RF MEAN =   19.684, SD =    1.890
+
+Realization 35: 
+    Corr coef between RFs is: 0.45
+    Check random field #1: RF MEAN =   10.028, SD =    0.918
+    Check random field #2: RF MEAN =   20.063, SD =    1.909
+
+Realization 36: 
+    Corr coef between RFs is: 0.52
+    Check random field #1: RF MEAN =    9.956, SD =    1.063
+    Check random field #2: RF MEAN =   20.227, SD =    2.003
+
+Realization 37: 
+    Corr coef between RFs is: 0.54
+    Check random field #1: RF MEAN =    9.654, SD =    0.946
+    Check random field #2: RF MEAN =   19.714, SD =    1.980
+
+Realization 38: 
+    Corr coef between RFs is: 0.46
+    Check random field #1: RF MEAN =   10.022, SD =    0.966
+    Check random field #2: RF MEAN =   19.751, SD =    1.766
+
+Realization 39: 
+    Corr coef between RFs is: 0.56
+    Check random field #1: RF MEAN =   10.028, SD =    1.018
+    Check random field #2: RF MEAN =   19.853, SD =    1.836
+
+Realization 40: 
+    Corr coef between RFs is: 0.58
+    Check random field #1: RF MEAN =   10.066, SD =    1.066
+    Check random field #2: RF MEAN =   19.989, SD =    2.145
+
+Realization 41: 
+    Corr coef between RFs is: 0.49
+    Check random field #1: RF MEAN =    9.947, SD =    0.942
+    Check random field #2: RF MEAN =   19.664, SD =    1.918
+
+Realization 42: 
+    Corr coef between RFs is: 0.45
+    Check random field #1: RF MEAN =   10.124, SD =    1.061
+    Check random field #2: RF MEAN =   20.087, SD =    1.721
+
+Realization 43: 
+    Corr coef between RFs is: 0.56
+    Check random field #1: RF MEAN =    9.975, SD =    0.994
+    Check random field #2: RF MEAN =   20.702, SD =    2.080
+
+Realization 44: 
+    Corr coef between RFs is: 0.46
+    Check random field #1: RF MEAN =   10.000, SD =    0.938
+    Check random field #2: RF MEAN =   20.001, SD =    1.851
+
+Realization 45: 
+    Corr coef between RFs is: 0.44
+    Check random field #1: RF MEAN =    9.810, SD =    0.959
+    Check random field #2: RF MEAN =   19.727, SD =    1.870
+
+Realization 46: 
+    Corr coef between RFs is: 0.54
+    Check random field #1: RF MEAN =   10.070, SD =    1.013
+    Check random field #2: RF MEAN =   20.012, SD =    2.019
+
+Realization 47: 
+    Corr coef between RFs is: 0.43
+    Check random field #1: RF MEAN =    9.984, SD =    0.917
+    Check random field #2: RF MEAN =   20.152, SD =    1.950
+
+Realization 48: 
+    Corr coef between RFs is: 0.49
+    Check random field #1: RF MEAN =    9.842, SD =    0.893
+    Check random field #2: RF MEAN =   19.706, SD =    1.867
+
+Realization 49: 
+    Corr coef between RFs is: 0.54
+    Check random field #1: RF MEAN =    9.927, SD =    0.922
+    Check random field #2: RF MEAN =   19.978, SD =    1.932
+
+Realization 50: 
+    Corr coef between RFs is: 0.52
+    Check random field #1: RF MEAN =    9.947, SD =    1.009
+    Check random field #2: RF MEAN =   20.077, SD =    1.996
+
+Realization 51: 
+    Corr coef between RFs is: 0.54
+    Check random field #1: RF MEAN =   10.011, SD =    1.002
+    Check random field #2: RF MEAN =   19.911, SD =    2.085
+
+Realization 52: 
+    Corr coef between RFs is: 0.52
+    Check random field #1: RF MEAN =    9.965, SD =    1.060
+    Check random field #2: RF MEAN =   20.183, SD =    2.066
+
+Realization 53: 
+    Corr coef between RFs is: 0.56
+    Check random field #1: RF MEAN =    9.668, SD =    0.955
+    Check random field #2: RF MEAN =   19.791, SD =    1.997
+
+Realization 54: 
+    Corr coef between RFs is: 0.49
+    Check random field #1: RF MEAN =   10.046, SD =    0.949
+    Check random field #2: RF MEAN =   19.994, SD =    1.836
+
+Realization 55: 
+    Corr coef between RFs is: 0.47
+    Check random field #1: RF MEAN =   10.113, SD =    0.996
+    Check random field #2: RF MEAN =   20.323, SD =    1.997
+
+Realization 56: 
+    Corr coef between RFs is: 0.49
+    Check random field #1: RF MEAN =   10.046, SD =    0.999
+    Check random field #2: RF MEAN =   19.856, SD =    2.015
+
+Realization 57: 
+    Corr coef between RFs is: 0.53
+    Check random field #1: RF MEAN =    9.896, SD =    0.925
+    Check random field #2: RF MEAN =   19.862, SD =    1.944
+
+Realization 58: 
+    Corr coef between RFs is: 0.50
+    Check random field #1: RF MEAN =    9.804, SD =    0.950
+    Check random field #2: RF MEAN =   19.786, SD =    2.063
+
+Realization 59: 
+    Corr coef between RFs is: 0.48
+    Check random field #1: RF MEAN =    9.922, SD =    1.037
+    Check random field #2: RF MEAN =   20.070, SD =    1.993
+
+Realization 60: 
+    Corr coef between RFs is: 0.52
+    Check random field #1: RF MEAN =   10.093, SD =    0.993
+    Check random field #2: RF MEAN =   19.857, SD =    1.829
+
+Realization 61: 
+    Corr coef between RFs is: 0.43
+    Check random field #1: RF MEAN =   10.081, SD =    0.903
+    Check random field #2: RF MEAN =   19.869, SD =    2.079
+
+Realization 62: 
+    Corr coef between RFs is: 0.47
+    Check random field #1: RF MEAN =    9.849, SD =    1.010
+    Check random field #2: RF MEAN =   20.233, SD =    2.049
+
+Realization 63: 
+    Corr coef between RFs is: 0.49
+    Check random field #1: RF MEAN =   10.108, SD =    1.031
+    Check random field #2: RF MEAN =   20.545, SD =    1.834
+
+Realization 64: 
+    Corr coef between RFs is: 0.46
+    Check random field #1: RF MEAN =    9.988, SD =    0.983
+    Check random field #2: RF MEAN =   19.668, SD =    1.831
+
+Realization 65: 
+    Corr coef between RFs is: 0.36
+    Check random field #1: RF MEAN =   10.041, SD =    0.987
+    Check random field #2: RF MEAN =   20.316, SD =    2.004
+
+Realization 66: 
+    Corr coef between RFs is: 0.46
+    Check random field #1: RF MEAN =    9.986, SD =    0.934
+    Check random field #2: RF MEAN =   19.811, SD =    1.875
+
+Realization 67: 
+    Corr coef between RFs is: 0.51
+    Check random field #1: RF MEAN =    9.976, SD =    0.955
+    Check random field #2: RF MEAN =   20.095, SD =    2.162
+
+Realization 68: 
+    Corr coef between RFs is: 0.53
+    Check random field #1: RF MEAN =    9.884, SD =    0.922
+    Check random field #2: RF MEAN =   19.990, SD =    1.941
+
+Realization 69: 
+    Corr coef between RFs is: 0.51
+    Check random field #1: RF MEAN =   10.067, SD =    1.030
+    Check random field #2: RF MEAN =   19.872, SD =    1.862
+
+Realization 70: 
+    Corr coef between RFs is: 0.57
+    Check random field #1: RF MEAN =   10.157, SD =    0.959
+    Check random field #2: RF MEAN =   20.103, SD =    2.024
+
+Realization 71: 
+    Corr coef between RFs is: 0.53
+    Check random field #1: RF MEAN =   10.034, SD =    0.962
+    Check random field #2: RF MEAN =   20.139, SD =    2.067
+
+Realization 72: 
+    Corr coef between RFs is: 0.53
+    Check random field #1: RF MEAN =   10.006, SD =    1.002
+    Check random field #2: RF MEAN =   19.910, SD =    1.989
+
+Realization 73: 
+    Corr coef between RFs is: 0.50
+    Check random field #1: RF MEAN =   10.107, SD =    0.984
+    Check random field #2: RF MEAN =   19.961, SD =    1.771
+
+Realization 74: 
+    Corr coef between RFs is: 0.43
+    Check random field #1: RF MEAN =   10.010, SD =    0.977
+    Check random field #2: RF MEAN =   19.971, SD =    1.776
+
+Realization 75: 
+    Corr coef between RFs is: 0.58
+    Check random field #1: RF MEAN =    9.985, SD =    1.012
+    Check random field #2: RF MEAN =   19.975, SD =    2.106
+
+Realization 76: 
+    Corr coef between RFs is: 0.48
+    Check random field #1: RF MEAN =    9.817, SD =    1.040
+    Check random field #2: RF MEAN =   19.828, SD =    1.921
+
+Realization 77: 
+    Corr coef between RFs is: 0.53
+    Check random field #1: RF MEAN =   10.141, SD =    0.967
+    Check random field #2: RF MEAN =   19.919, SD =    1.840
+
+Realization 78: 
+    Corr coef between RFs is: 0.45
+    Check random field #1: RF MEAN =   10.009, SD =    0.957
+    Check random field #2: RF MEAN =   19.844, SD =    1.888
+
+Realization 79: 
+    Corr coef between RFs is: 0.49
+    Check random field #1: RF MEAN =   10.100, SD =    0.989
+    Check random field #2: RF MEAN =   20.236, SD =    1.970
+
+Realization 80: 
+    Corr coef between RFs is: 0.51
+    Check random field #1: RF MEAN =   10.033, SD =    1.049
+    Check random field #2: RF MEAN =   20.224, SD =    1.874
+
+Realization 81: 
+    Corr coef between RFs is: 0.54
+    Check random field #1: RF MEAN =   10.186, SD =    1.075
+    Check random field #2: RF MEAN =   20.279, SD =    1.982
+
+Realization 82: 
+    Corr coef between RFs is: 0.56
+    Check random field #1: RF MEAN =    9.824, SD =    0.991
+    Check random field #2: RF MEAN =   19.879, SD =    2.120
+
+Realization 83: 
+    Corr coef between RFs is: 0.50
+    Check random field #1: RF MEAN =    9.887, SD =    0.909
+    Check random field #2: RF MEAN =   19.724, SD =    1.916
+
+Realization 84: 
+    Corr coef between RFs is: 0.49
+    Check random field #1: RF MEAN =   10.034, SD =    1.051
+    Check random field #2: RF MEAN =   20.152, SD =    2.109
+
+Realization 85: 
+    Corr coef between RFs is: 0.60
+    Check random field #1: RF MEAN =   10.049, SD =    1.081
+    Check random field #2: RF MEAN =   19.890, SD =    2.023
+
+Realization 86: 
+    Corr coef between RFs is: 0.51
+    Check random field #1: RF MEAN =    9.904, SD =    0.961
+    Check random field #2: RF MEAN =   19.724, SD =    1.963
+
+Realization 87: 
+    Corr coef between RFs is: 0.51
+    Check random field #1: RF MEAN =   10.050, SD =    0.911
+    Check random field #2: RF MEAN =   20.406, SD =    2.139
+
+Realization 88: 
+    Corr coef between RFs is: 0.48
+    Check random field #1: RF MEAN =   10.056, SD =    0.924
+    Check random field #2: RF MEAN =   19.876, SD =    1.819
+
+Realization 89: 
+    Corr coef between RFs is: 0.52
+    Check random field #1: RF MEAN =   10.038, SD =    0.952
+    Check random field #2: RF MEAN =   20.022, SD =    1.877
+
+Realization 90: 
+    Corr coef between RFs is: 0.46
+    Check random field #1: RF MEAN =    9.827, SD =    0.914
+    Check random field #2: RF MEAN =   20.012, SD =    1.840
+
+Realization 91: 
+    Corr coef between RFs is: 0.44
+    Check random field #1: RF MEAN =   10.063, SD =    0.987
+    Check random field #2: RF MEAN =   20.116, SD =    2.108
+
+Realization 92: 
+    Corr coef between RFs is: 0.52
+    Check random field #1: RF MEAN =   10.071, SD =    0.994
+    Check random field #2: RF MEAN =   19.714, SD =    2.017
+
+Realization 93: 
+    Corr coef between RFs is: 0.50
+    Check random field #1: RF MEAN =    9.777, SD =    0.912
+    Check random field #2: RF MEAN =   19.627, SD =    1.862
+
+Realization 94: 
+    Corr coef between RFs is: 0.48
+    Check random field #1: RF MEAN =    9.912, SD =    0.998
+    Check random field #2: RF MEAN =   20.043, SD =    1.965
+
+Realization 95: 
+    Corr coef between RFs is: 0.50
+    Check random field #1: RF MEAN =   10.033, SD =    0.926
+    Check random field #2: RF MEAN =   20.136, SD =    1.881
+
+Realization 96: 
+    Corr coef between RFs is: 0.49
+    Check random field #1: RF MEAN =   10.027, SD =    0.970
+    Check random field #2: RF MEAN =   20.000, SD =    1.998
+
+Realization 97: 
+    Corr coef between RFs is: 0.51
+    Check random field #1: RF MEAN =   10.116, SD =    1.073
+    Check random field #2: RF MEAN =   20.189, SD =    1.984
+
+Realization 98: 
+    Corr coef between RFs is: 0.56
+    Check random field #1: RF MEAN =   10.110, SD =    1.016
+    Check random field #2: RF MEAN =   20.071, SD =    2.041
+
+Realization 99: 
+    Corr coef between RFs is: 0.52
+    Check random field #1: RF MEAN =   10.067, SD =    1.084
+    Check random field #2: RF MEAN =   19.889, SD =    1.989
+
+Realization 100: 
+    Corr coef between RFs is: 0.53
+    Check random field #1: RF MEAN =    9.892, SD =    0.960
+    Check random field #2: RF MEAN =   19.819, SD =    1.990
+
+
+
+Statistics:
+------------------------------------------------------------------
+Total Realizations:	100
+
+MEAN of all RF1 MEANs:	9.98258e+00 (actual 1.00000e+01)
+MEAN of all RF1 SDs:	9.77811e-01 (actual 1.00000e+00)
+MEAN of all RF2 MEANs:	1.99892e+01 (actual 2.00000e+01)
+MEAN of all RF2 SDs:	1.95255e+00 (actual 2.00000e+00)
+MEAN of all crs-corr:	4.99008e-01 (actual 5.00000e-01)
+
+MEAN of capacity:	0.00000e+00
+SD   of capacity:	0.00000e+00
+
+Total elapsed time:	2.45518e+02 sec.

@@ -3,7 +3,7 @@ This matlab codes are used to generate 2-dimensional random fields using Local A
 
 If you are using MATLAB File Exchange site, you cannnot see the examples described below. You need to click onto my GitHub site where you can find examples.
 
-`rfgen.m` is the MAIN file. It requires a single input of the input file name, having this format:
+`rfgen.m` is the MAIN file. It requires a single input of the input file name, having this format:  
 ----------------------------------`example.dat`--------------------------------
 1.  mean and standard deviation of random field #1  . . . 10.0 1.0 2 0 0 0 0
 2.  mean and standard deviation of random field #2  . . . 20.0 2.0 2 0 0 0 0

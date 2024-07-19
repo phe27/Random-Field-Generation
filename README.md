@@ -14,7 +14,7 @@ If you are using MATLAB File Exchange site, you cannnot see the examples describ
 7.  initial seed number . . . . . . . . . . . . . . . . . 37
 8.  total number of realizations  . . . . . . . . . . . . 100
 9.  plot a random field?  . . . . . . . . . . . . . . . . 1 1 1
-10. debug on? . . . . . . . . . . . . . . . . . . . . . . 1
+10. debug on? . . . . . . . . . . . . . . . . . . . . . . 1  
 ----------------------------------`example.dat`--------------------------------
 
 This is exactly the same as `example.dat`, which contains all the input parameters. `getinp.m` reads the the specific example input file, so it can be adapted for your own input file. `wrtinp.m` write results into `example.out` which contains all the simulation result statistics. You can adapt `rfgen.m`, `example.dat`, `getinp.m`, and `wrtinp.m` according to what you need.
